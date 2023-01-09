@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-todo/static/css/main.c29c7732.css",
-    "main.js": "/react-todo/static/js/main.617b169d.js",
-    "static/js/787.fbf415da.chunk.js": "/react-todo/static/js/787.fbf415da.chunk.js",
-    "index.html": "/react-todo/index.html",
-    "main.c29c7732.css.map": "/react-todo/static/css/main.c29c7732.css.map",
-    "main.617b169d.js.map": "/react-todo/static/js/main.617b169d.js.map",
-    "787.fbf415da.chunk.js.map": "/react-todo/static/js/787.fbf415da.chunk.js.map"
+    "main.css": "/todo-react-practice/static/css/main.c29c7732.css",
+    "main.js": "/todo-react-practice/static/js/main.ae6d109e.js",
+    "static/js/787.fbf415da.chunk.js": "/todo-react-practice/static/js/787.fbf415da.chunk.js",
+    "index.html": "/todo-react-practice/index.html",
+    "main.c29c7732.css.map": "/todo-react-practice/static/css/main.c29c7732.css.map",
+    "main.ae6d109e.js.map": "/todo-react-practice/static/js/main.ae6d109e.js.map",
+    "787.fbf415da.chunk.js.map": "/todo-react-practice/static/js/787.fbf415da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c29c7732.css",
-    "static/js/main.617b169d.js"
+    "static/js/main.ae6d109e.js"
   ]
 }
